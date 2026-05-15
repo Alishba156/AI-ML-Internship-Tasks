@@ -1,4 +1,4 @@
-# AI-ML-Internship-Tasks
+
 # AI/ML Internship Tasks
 
 This repository contains all the completed tasks for the AI/ML Internship. Each task demonstrates data handling, machine learning, or prompt engineering principles.
